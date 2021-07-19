@@ -18,14 +18,33 @@
 >Marital status: married
 >
 >Personal qualities:
->>Broad-minded
+>>* Broad-minded
 >>
->>Dependable
+>>* Dependable
 >>
->>Determined
+>>* Determined
 >>
->>Initiative
+>>* Initiative
 >>
->>Versatile
+>>* Versatile
 >
 >Hobbies: foreign languages, chess
+
+**4. Special skills**
+>+ HTML5
+>
+>+ CSS
+>
+>+ JS
+>
+>+ GitHub
+
+**5. Education&Work experience**
+>The Rolling Scopes School Application - Stage#0.
+
+**6. Language skills**
+>English - Basic knowledge
+>
+>Polish - Fluent
+>
+>Russian - Native
