@@ -1,1 +1,0 @@
-https://RaiderZed.github.io/rsschool-cv/cv
